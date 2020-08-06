@@ -5,8 +5,8 @@ In this project I built stock price predictor that takes daily trading data for 
 GOOG, AAPL) over a last 5 years span as input, and outputs the predicted stock prices for each of those stocks for next 30 days.
 
 ## Libraries used:
-*import numpy as np
-import pandas as pd
+- import numpy as np
+- import pandas as pd
 import json
 import time
 from datetime import datetime
