@@ -25,7 +25,7 @@ GOOG, AAPL) over a last 5 years span as input, and outputs the predicted stock p
 - from sagemaker.estimator import Estimator
 - from sagemaker.tuner import IntegerParameter, ContinuousParameter, HyperparameterTuner
 
-##### Import other Tensorflow libraries
+##### Other Tensorflow libraries
 
 - import pandas_datareader as web
 - from sklearn.preprocessing import MinMaxScaler
