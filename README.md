@@ -1,1 +1,1 @@
-# ML-Capstone-Project-Stock-Predicton
+# ML Capstone Project: Stock Predictor
